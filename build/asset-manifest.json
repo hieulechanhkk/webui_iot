@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f74c6a52.css",
-    "main.js": "/static/js/main.d60ff83f.js",
-    "static/js/787.6f347169.chunk.js": "/static/js/787.6f347169.chunk.js",
+    "main.css": "/static/css/main.d5337906.css",
+    "main.js": "/static/js/main.22f55296.js",
     "static/media/avatar.png": "/static/media/avatar.8a1353f43105637bad1f.png",
     "static/media/logo_uitiot.png": "/static/media/logo_uitiot.2ae68be56269a0d60cf3.png",
     "index.html": "/index.html",
-    "main.f74c6a52.css.map": "/static/css/main.f74c6a52.css.map",
-    "main.d60ff83f.js.map": "/static/js/main.d60ff83f.js.map",
-    "787.6f347169.chunk.js.map": "/static/js/787.6f347169.chunk.js.map"
+    "main.d5337906.css.map": "/static/css/main.d5337906.css.map",
+    "main.22f55296.js.map": "/static/js/main.22f55296.js.map"
   },
   "entrypoints": [
-    "static/css/main.f74c6a52.css",
-    "static/js/main.d60ff83f.js"
+    "static/css/main.d5337906.css",
+    "static/js/main.22f55296.js"
   ]
 }
