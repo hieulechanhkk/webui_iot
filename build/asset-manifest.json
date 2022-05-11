@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5337906.css",
-    "main.js": "/static/js/main.22f55296.js",
+    "main.css": "/static/css/main.02820176.css",
+    "main.js": "/static/js/main.7b7b4be8.js",
+    "static/media/raspberry_pi.jpg": "/static/media/raspberry_pi.a6e5810b47396c66f94f.jpg",
     "static/media/avatar.png": "/static/media/avatar.8a1353f43105637bad1f.png",
     "static/media/logo_uitiot.png": "/static/media/logo_uitiot.2ae68be56269a0d60cf3.png",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/arduino_wemos_d1_r2.jpg": "/static/media/arduino_wemos_d1_r2.acc480821c5b828a2b15.jpg",
     "index.html": "/index.html",
-    "main.d5337906.css.map": "/static/css/main.d5337906.css.map",
-    "main.22f55296.js.map": "/static/js/main.22f55296.js.map"
+    "main.02820176.css.map": "/static/css/main.02820176.css.map",
+    "main.7b7b4be8.js.map": "/static/js/main.7b7b4be8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5337906.css",
-    "static/js/main.22f55296.js"
+    "static/css/main.02820176.css",
+    "static/js/main.7b7b4be8.js"
   ]
 }
